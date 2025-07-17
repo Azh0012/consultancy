@@ -1,0 +1,366 @@
+.section1 img{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    width: 100%;
+    height: 150px;
+    font-size: 35px;
+}
+b{
+    padding: 50px 25px;
+}
+.photo img{
+    width: 100%;
+    height: 700px;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.left1 img{
+    width: 600px;
+    height: 700px;
+    margin: 60px;
+}
+.right1 {
+    width: 600px;
+    height: 700px;
+    margin: 60px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.c1{
+    width: 500px;
+    height: 200px;
+    margin-top: 25px;
+    font-size: 60px
+}
+.c2{
+    width: 500px;
+    height: 200px;
+    margin-top: 25px;
+    font-size: 30px
+}
+.c3{
+    width: 500px;
+    height: 200px;
+    margin-top: 25px;
+    font-size: 20px
+}
+.section3{
+    background-image: url(https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg);
+    background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    display: flex;
+    justify-content: space-around;
+}
+.left2{
+    width: 600px;
+    height: 700px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.about{
+    width: 370px;
+    height: 50px;
+    margin-left: 70px;
+    font-size: 50px;
+    color: white;
+}
+.a{
+    width: 370px;
+    height: 100px;
+    margin: 70px;
+    font-size: 25px;
+    color: white;
+}
+
+.right2{
+    width: 600px;
+    height: 700px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.c4{
+    width: 420px;
+    height: 150px;
+    margin-bottom: 80px;
+    color: white;
+    font-size: 20px;
+}
+.c5{
+    width: 420px;
+    height: 150px;
+    margin-bottom: 70px;
+    color: white;
+    font-size: 20px;
+}
+.section4{
+    display: flex;
+    flex-direction: row;
+    
+}
+.row1{
+    width: 400px;
+    height: 700px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.h{
+   width: 400px;
+   height: 100px; 
+   font-size: 50px;
+   text-align: center;
+}
+.img1 img{
+   width: 250px;
+   height: 200px; 
+   margin: 50px;
+}
+.des1{
+   width: 250px;
+   height: 100px; 
+   margin: 1px 70px 10px 50px;
+   font-size: 35px;
+   text-align: center;
+}
+ .button1 button{
+     width: 250px;
+   height: 100px;
+     margin: 10px 70px 10px 50px;
+   background-color: rgb(197, 198, 201);
+   font-size: 20px;
+}
+.row2{
+    width: 400px;
+    height: 700px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.img2 img{
+   width: 250px;
+   height: 200px; 
+   margin: 150px 70px 50px 2px;
+}
+.des2{
+   width: 250px;
+   height: 100px; 
+   margin: 0px 70px 50px 2px;
+   font-size: 35px;
+   text-align: center;
+}
+.button2 button{
+   width: 250px;
+   height: 100px;
+   margin: 0px 70px 80px 2px;
+    background-color: rgb(197, 198, 201);
+   font-size: 20px;
+}
+.row3{
+    width: 400px;
+    height: 700px;
+    margin: 60px;
+}
+.img3 img{
+   width: 250px;
+   height: 200px; 
+   margin: 150px 70px 50px 2px;
+}
+.des3{
+   width: 250px;
+   height: 100px; 
+   margin: 0px 70px 50px 2px;
+   font-size: 35px;
+   text-align: center;
+}
+.button3 button{
+    width: 250px;
+   height: 100px;
+   margin: 0px 70px 80px 2px;
+    background-color: rgb(197, 198, 201);
+   font-size: 20px;
+}
+.section5{
+    display: flex;
+    flex-direction: column;
+}
+.upper{
+    background-image: url(https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg);
+    background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.r1{
+    width: 200px;
+    height: 250px;
+    margin: 70px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.r2{
+    width: 200px;
+    height: 250px;
+    margin: 70px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.r3{
+    width: 200px;
+    height: 250px;
+    margin: 70px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.lower{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+.r4{
+    width: 500px;
+    height: 120px;
+    margin: 80px;
+    font-size: 30px;
+}
+.r5{
+    width: 370px;
+    height: 120px;
+    margin: 80px;
+    font-size: 30px;
+}
+.r6{
+    width: 350px;
+    height: 120px;
+    margin: 80px;
+    font-size: 25px;
+}
+.r7{
+    width: 350px;
+    height: 120px;
+    margin: 80px;
+    font-size: 25px;
+}
+.section6{
+    background-color: rgb(155, 170, 170);
+    display: flex;
+    flex-direction: row;
+}
+.row4{
+    width: 600px;
+    height: 700px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.T{
+    width: 300px;
+    height: 150px;
+    margin: 50px;
+    font-size: 50px;
+}
+.about1{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+p{
+    font-size: 17px;
+    margin: 20px;
+}
+.row5{
+    width: 600px;
+    height: 700px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.about2{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+.row6{
+    width: 600px;
+    height: 700px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.about3{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+.section7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.row7{
+    width: 800px;
+    height: 800px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.T1{
+    width: 400px;
+    height: 150px;
+    margin: 50px;
+    font-size: 50px;
+}
+.content1{
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.c6{
+    width: 250px;
+    height: 200px;
+    font-size: 30px;
+    
+}
+.c7{
+    width: 250px;
+    height: 200px;
+    font-size: 30px;
+}
+.b1{
+    width: 500px;
+    height: 150px;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.row8 img{
+    width: 600px;
+    height: 100%
+}
+
